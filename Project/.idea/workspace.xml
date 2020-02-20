@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6627fe66-70dc-4a70-9deb-db023a25de2b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Y4VYqUcW1yB3CoGR1mgaiGRv3A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tkinter/buttons" />
+      <recent name="$PROJECT_DIR$/Tkinter/labels" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.entrywidget_with_show">
+    <configuration name="checkbox_improved" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkinter/checkboxes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkinter/checkboxes/checkbox_improved.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="checkbox_more_advanced" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkinter/checkboxes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkinter/checkboxes/checkbox_more_advanced.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="entrywidget_introduction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkinter/Entry Widgets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkinter/Entry Widgets/entrywidget_introduction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="entrywidget_with_show" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkinter/Entry Widgets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkinter/Entry Widgets/entrywidget_with_show.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkinter/checkboxes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkinter/checkboxes/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.entrywidget_with_show" />
+        <item itemvalue="Python.entrywidget_introduction" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.checkbox_more_advanced" />
+        <item itemvalue="Python.checkbox_improved" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6627fe66-70dc-4a70-9deb-db023a25de2b" name="Default Changelist" comment="" />
+      <created>1582201903831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582201903831</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1379" height="192" key="GridCell.Tab.0.bottom" timestamp="1582210621704">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1379" height="192" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582210621704" />
+    <state width="1379" height="192" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1582210110250" />
+    <state width="1379" height="192" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1582210121351" />
+    <state width="1379" height="192" key="GridCell.Tab.0.center" timestamp="1582210621703">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1379" height="192" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582210621703" />
+    <state width="1379" height="192" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1582210110249" />
+    <state width="1379" height="192" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1582210121350" />
+    <state width="1379" height="192" key="GridCell.Tab.0.left" timestamp="1582210621703">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1379" height="192" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582210621703" />
+    <state width="1379" height="192" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1582210110249" />
+    <state width="1379" height="192" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1582210121350" />
+    <state width="1379" height="192" key="GridCell.Tab.0.right" timestamp="1582210621704">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1379" height="192" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582210621704" />
+    <state width="1379" height="192" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1582210110250" />
+    <state width="1379" height="192" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1582210121351" />
+    <state width="1379" height="239" key="GridCell.Tab.1.bottom" timestamp="1582205606852">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1379" height="239" key="GridCell.Tab.1.bottom/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582205606852" />
+    <state width="1379" height="239" key="GridCell.Tab.1.center" timestamp="1582205606852">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1379" height="239" key="GridCell.Tab.1.center/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582205606852" />
+    <state width="1379" height="239" key="GridCell.Tab.1.left" timestamp="1582205606852">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1379" height="239" key="GridCell.Tab.1.left/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582205606852" />
+    <state width="1379" height="239" key="GridCell.Tab.1.right" timestamp="1582205606852">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1379" height="239" key="GridCell.Tab.1.right/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582205606852" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1582205710162">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1582205710162" />
+    <state x="344" y="51" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582203088875">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="344" y="51" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582203088875" />
+    <state x="278" y="23" width="816" height="806" key="find.popup" timestamp="1582203171036">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="278" y="23" width="816" height="806" key="find.popup/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582203171036" />
+  </component>
+</project>

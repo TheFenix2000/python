@@ -3,7 +3,7 @@
 import tkinter as tk
 
 root = tk.Tk()
-logo = tk.PhotoImage(file="./image/logo.png")
+logo = tk.PhotoImage(file="../image/logo.png")
 
 explanation = """At present, only GIF and PPM/PGM
 formats are supported, but an interface 
