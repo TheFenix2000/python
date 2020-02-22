@@ -1,7 +1,9 @@
 import tkinter as tk
 
 def show_entry_fields():
-    print("First Name: %s\nLast Name: %s" % (e1.get(), e2.get()))
+    print("First Name: %s\nLast Name: %s" % (entry1.get(), entry2.get()))
+    entry1.delete(0, tk.END)
+    entry2.delete(0, tk.END)
 
 master = tk.Tk()
 tk.Label(master,
@@ -9,11 +11,14 @@ tk.Label(master,
 tk.Label(master,
          text="Last Name").grid(row=1)
 
-e1 = tk.Entry(master)
-e2 = tk.Entry(master)
+entry1 = tk.Entry(master)
+entry2 = tk.Entry(master)
 
-e1.grid(row=0, column=1)
-e2.grid(row=1, column=1)
+entry1.grid(row=0, column=1)
+entry2.grid(row=1, column=1)
+
+#entry1.insert(10, "John")   default values
+#entry2.insert(10, "Miller") default values
 
 tk.Button(master,
           text='Quit',
