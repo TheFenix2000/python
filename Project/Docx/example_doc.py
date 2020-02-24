@@ -28,7 +28,7 @@ records = (
     (4, '631', 'Spam, spam, eggs, and spam')
 )
 
-table = document.add_table(rows=1, cols=3)
+table = document.add_table(rows=1, cols=3, style='Table Grid')
 hdr_cells = table.rows[0].cells
 hdr_cells[0].text = 'Qty'
 hdr_cells[1].text = 'Id'
