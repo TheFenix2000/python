@@ -17,7 +17,7 @@ document.add_paragraph('Im a paragraph after a page break')
 document.add_page_break()
 
 #tabelki
-table = document.add_table(rows=2,cols=2)
+table = document.add_table(rows=2,cols=2,style='Table Grid')
 cell = table.cell(0,1)#row and column start from 0
 cell.text = 'parrot,possibly dead' #row and column
 row = table.rows[1]#dostę do wysztkich komórek w danym wierszu o numerze [1]

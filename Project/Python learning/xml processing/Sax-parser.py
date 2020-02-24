@@ -1,7 +1,7 @@
 import xml.sax
 import os
 
-filename = "movies.xml"
+filename = "movies.nessus"
 path = os.path.join("../files/" + filename)
 class MovieHandler( xml.sax.ContentHandler ):
    def __init__(self):

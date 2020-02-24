@@ -2,7 +2,7 @@ from xml.dom.minidom import parse
 import xml.dom.minidom
 import os
 
-filename = "movies.xml"
+filename = "movies.nessus"
 path = os.path.join("../files/" + filename)
 
 
