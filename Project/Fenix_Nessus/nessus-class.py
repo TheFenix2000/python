@@ -6,9 +6,9 @@ import xml.etree.ElementTree as ET
 tree = ET.parse(argv[1])
 full_list = []
 
-class Nessus:
+class _nessus:
 
-  def ExcludeID(self):
+  def Exclude_id(self):
     """User adds excluded IDs"""
     how_many_numbers = int(input("Number of ignored IDs to add: "))
     if not how_many_numbers == 0:
@@ -17,7 +17,7 @@ class Nessus:
           number = int(input('Ignored ID: '))
           write_into.write(',' + str(number))  #IDs write to file
 
-  def Find_Items(self):
+  def Find_items(self):
     """Searches for elements in source file"""
     for host in tree.findall('Report/ReportHost'):
       for item in host.findall('ReportItem'):  #defined elements
@@ -38,6 +38,10 @@ class Nessus:
         List_append()
 
     print(full_list)
+
+
+class nessus:
+  
 
 def Main():
   """Main function"""

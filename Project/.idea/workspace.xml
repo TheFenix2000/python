@@ -2,17 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6627fe66-70dc-4a70-9deb-db023a25de2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Fenix_Nessus/excludedIDs-orig.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fenix_Nessus/excludedIDs.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fenix_Nessus/nessus-class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ozuma_Nessus/excludedIDs.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ozuma_Nessus/extract_from_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ozuma_Nessus/finding_desc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ozuma_Nessus/if_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/Shallow and Deep Copy/deepcopy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/Shallow and Deep Copy/shallow lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/dictionaries/2-lists_to_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/dictionaries/dictionary_copy_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/dictionaries/dictionary_relationships.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/dictionaries/dictionary_to_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/formating/dictionaries_in__formating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/formating/formating_with_format().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/formating/local_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/formating/other_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/functions/arbitary_number_of_parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/functions/arbitrary_number_of_parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/functions/function_exercises.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/functions/input_from_csv/example.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/functions/input_from_csv/excluded_ids.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/functions/input_from_csv/function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ozuma_Nessus/nessus-remade.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fenix_Nessus/nessus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ozuma_Nessus/sample_xml/Example-1.nessus" beforeDir="false" afterPath="$PROJECT_DIR$/Fenix_Nessus/samples/Example-1.nessus" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ozuma_Nessus/sample_xml/Example.nessus" beforeDir="false" afterPath="$PROJECT_DIR$/Fenix_Nessus/samples/Example.nessus" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fenix_Nessus/nessus-class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fenix_Nessus/nessus-class.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,22 +61,22 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Fenix_Nessus/samples" />
-      <recent name="$PROJECT_DIR$/Fenix_Nessus" />
-      <recent name="$PROJECT_DIR$/Ozuma_Nessus/sample_xml" />
-      <recent name="$PROJECT_DIR$/Ozuma_Nessus" />
-      <recent name="$PROJECT_DIR$/Python learning/files" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Fenix_Nessus" />
       <recent name="$PROJECT_DIR$/Ozuma_Nessus" />
       <recent name="$PROJECT_DIR$/Ozuma_Nessus/sample_xml" />
       <recent name="$PROJECT_DIR$/Tkinter/buttons" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python learning/directories" />
+      <recent name="$PROJECT_DIR$/Fenix_Nessus/samples" />
+      <recent name="$PROJECT_DIR$/Fenix_Nessus" />
+      <recent name="$PROJECT_DIR$/Ozuma_Nessus/sample_xml" />
+      <recent name="$PROJECT_DIR$/Ozuma_Nessus" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.if_file">
-    <configuration name="extract_from_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.function">
+    <configuration name="arbitary_number_of_parameters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ozuma_Nessus" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python learning/functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ozuma_Nessus/extract_from_tuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python learning/functions/arbitary_number_of_parameters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="finding_desc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="arbitrary_number_of_parameters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ozuma_Nessus" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python learning/functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ozuma_Nessus/finding_desc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python learning/functions/arbitrary_number_of_parameters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="header" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Docx" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python learning/functions/input_from_csv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Docx/header.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python learning/functions/input_from_csv/function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="if_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="function_exercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ozuma_Nessus" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python learning/functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ozuma_Nessus/if_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python learning/functions/function_exercises.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="other_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ozuma_Nessus" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python learning/formating" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ozuma_Nessus/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python learning/formating/other_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.if_file" />
-        <item itemvalue="Python.extract_from_tuple" />
-        <item itemvalue="Python.finding_desc" />
-        <item itemvalue="Python.header" />
-        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.function" />
+        <item itemvalue="Python.arbitary_number_of_parameters" />
+        <item itemvalue="Python.arbitrary_number_of_parameters" />
+        <item itemvalue="Python.function_exercises" />
+        <item itemvalue="Python.other_methods" />
       </list>
     </recent_temporary>
   </component>
@@ -214,54 +221,62 @@
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="353" y="36" key="CommitChangelistDialog2/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582269085621" />
-    <state width="1379" height="120" key="GridCell.Tab.0.bottom" timestamp="1583140853794">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1379" height="165" key="GridCell.Tab.0.bottom" timestamp="1583243373096">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1379" height="192" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582530920311" />
     <state width="1379" height="259" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582616869597" />
     <state width="1379" height="259" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1582618630696" />
-    <state width="1379" height="120" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583140853794" />
-    <state width="1379" height="120" key="GridCell.Tab.0.center" timestamp="1583140853793">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1379" height="240" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583157098950" />
+    <state width="1379" height="165" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583243373096" />
+    <state width="1379" height="165" key="GridCell.Tab.0.center" timestamp="1583243373095">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1379" height="192" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582530920310" />
     <state width="1379" height="259" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582616869596" />
     <state width="1379" height="259" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1582618630695" />
-    <state width="1379" height="120" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583140853793" />
-    <state width="1379" height="120" key="GridCell.Tab.0.left" timestamp="1583140853793">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1379" height="240" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583157098949" />
+    <state width="1379" height="165" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583243373095" />
+    <state width="1379" height="165" key="GridCell.Tab.0.left" timestamp="1583243373094">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1379" height="192" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582530920309" />
     <state width="1379" height="259" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582616869595" />
     <state width="1379" height="259" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1582618630695" />
-    <state width="1379" height="120" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583140853793" />
-    <state width="1379" height="120" key="GridCell.Tab.0.right" timestamp="1583140853794">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1379" height="240" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583157098949" />
+    <state width="1379" height="165" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583243373094" />
+    <state width="1379" height="165" key="GridCell.Tab.0.right" timestamp="1583243373095">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1379" height="192" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582530920310" />
     <state width="1379" height="259" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582616869596" />
     <state width="1379" height="259" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1582618630696" />
-    <state width="1379" height="120" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583140853794" />
-    <state width="1379" height="240" key="GridCell.Tab.1.bottom" timestamp="1583136406674">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1379" height="240" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583157098950" />
+    <state width="1379" height="165" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583243373095" />
+    <state width="1379" height="240" key="GridCell.Tab.1.bottom" timestamp="1583229034654">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1379" height="239" key="GridCell.Tab.1.bottom/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582210705469" />
-    <state width="1379" height="240" key="GridCell.Tab.1.bottom/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583136406674" />
-    <state width="1379" height="240" key="GridCell.Tab.1.center" timestamp="1583136406673">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1379" height="240" key="GridCell.Tab.1.bottom/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583157098951" />
+    <state width="1379" height="240" key="GridCell.Tab.1.bottom/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583229034654" />
+    <state width="1379" height="240" key="GridCell.Tab.1.center" timestamp="1583229034654">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1379" height="239" key="GridCell.Tab.1.center/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582210705469" />
-    <state width="1379" height="240" key="GridCell.Tab.1.center/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583136406673" />
-    <state width="1379" height="240" key="GridCell.Tab.1.left" timestamp="1583136406673">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1379" height="240" key="GridCell.Tab.1.center/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583157098950" />
+    <state width="1379" height="240" key="GridCell.Tab.1.center/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583229034654" />
+    <state width="1379" height="240" key="GridCell.Tab.1.left" timestamp="1583229034653">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1379" height="239" key="GridCell.Tab.1.left/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582210705469" />
-    <state width="1379" height="240" key="GridCell.Tab.1.left/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583136406673" />
-    <state width="1379" height="240" key="GridCell.Tab.1.right" timestamp="1583136406674">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1379" height="240" key="GridCell.Tab.1.left/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583157098950" />
+    <state width="1379" height="240" key="GridCell.Tab.1.left/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583229034653" />
+    <state width="1379" height="240" key="GridCell.Tab.1.right" timestamp="1583229034654">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1379" height="239" key="GridCell.Tab.1.right/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582210705469" />
-    <state width="1379" height="240" key="GridCell.Tab.1.right/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583136406674" />
+    <state width="1379" height="240" key="GridCell.Tab.1.right/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583157098951" />
+    <state width="1379" height="240" key="GridCell.Tab.1.right/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583229034654" />
     <state x="234" y="65" key="SettingsEditor" timestamp="1582539124562">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
@@ -271,11 +286,12 @@
     </state>
     <state width="500" height="445" key="SwitcherDM/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1582205710162" />
     <state width="500" height="447" key="SwitcherDM/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583133827009" />
-    <state x="344" y="51" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582622024884">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state x="344" y="51" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583224416723">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="344" y="51" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582203088875" />
     <state x="344" y="51" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1582622024884" />
+    <state x="344" y="51" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583224416723" />
     <state x="278" y="23" width="816" height="806" key="find.popup" timestamp="1582203171036">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
