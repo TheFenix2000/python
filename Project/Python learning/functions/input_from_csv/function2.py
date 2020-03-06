@@ -19,20 +19,13 @@ class ExcludedLoader:
                 dictionary = {i: True for i in row}
                 return dictionary
 
-
-class DummyExcludedLoader:
-    def get_excluded(self):
-        return {'123' : True, '456' : True}
-
 class Nessus:
-    def __init__(self, zosia):
-        self._exluded_loader = zosia
+    def __init__(self, exluded_loader):
+        self._exluded_loader = exluded_loader
 
     def process(self):
         excluded = self._exluded_loader.get_excluded()
-        print(excluded)
-    
-#ld = DummyExcludedLoader()
+
 
 ld = ExcludedLoader()
 

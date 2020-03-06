@@ -2,17 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6627fe66-70dc-4a70-9deb-db023a25de2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python learning/classes/getter_setter_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/classes/init_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/functions/input_from_csv/function2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/list_comprehension/Celsius_to_Farenheit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/list_comprehension/comprehension_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/list_comprehension/pairs_from_two_sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/list_comprehension/prime_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/list_comprehension/pythagorean_triples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fenix_Nessus/Nessus_algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fenix_Nessus/function2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NessusCLIParser-master/usr/local/bin/Example.nessus" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/Inheritance/additional_instances_in_subclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/Inheritance/introduction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/Inheritance/overriding_instances_of_parrent_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/Inheritance/partialy_ovveride_a_instance_of_parent_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/class_and_instance_attr/class_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/class_and_instance_attr/differences_between_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/class_and_instance_attr/greates_common_division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/class_and_instance_attr/static_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/classes/destructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/classes/private_attributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/classes/repr_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/classes/repr_string_methods_combined.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/classes/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/descriptors/example_descriptor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/descriptors/votin_age_descriptor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/properties/property.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/python-docx-template/crossword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/python-docx-template/introduction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/python-docx-template/nessus-report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python learning/xml processing/test.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python learning/functions/arbitary_number_of_parameters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python learning/functions/arbitary_number_of_key_parameters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python learning/functions/input_from_csv/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python learning/functions/input_from_csv/function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docx/crossword.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fenix_Nessus/excludedIDs-orig.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fenix_Nessus/excludedIDs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fenix_Nessus/excludedIDs.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fenix_Nessus/nessus-class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python learning/classes/data hiding.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python learning/classes/data_hiding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python learning/functions/input_from_csv/function2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python learning/functions/input_from_csv/function2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +62,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Fenix_Nessus" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NessusCLIParser-master/usr/local/bin" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -54,12 +75,6 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Fenix_Nessus" />
-      <recent name="$PROJECT_DIR$/Ozuma_Nessus" />
-      <recent name="$PROJECT_DIR$/Ozuma_Nessus/sample_xml" />
-      <recent name="$PROJECT_DIR$/Tkinter/buttons" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Python learning/directories" />
       <recent name="$PROJECT_DIR$/Fenix_Nessus/samples" />
@@ -67,21 +82,28 @@
       <recent name="$PROJECT_DIR$/Ozuma_Nessus/sample_xml" />
       <recent name="$PROJECT_DIR$/Ozuma_Nessus" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NessusCLIParser-master/usr/local/bin" />
+      <recent name="$PROJECT_DIR$/Fenix_Nessus" />
+      <recent name="$PROJECT_DIR$/Python learning/classes" />
+      <recent name="$PROJECT_DIR$/Ozuma_Nessus" />
+      <recent name="$PROJECT_DIR$/Ozuma_Nessus/sample_xml" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.getter_setter_methods">
-    <configuration name="comprehension_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project" />
+  <component name="RunManager" selected="Python.nessus-report">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-docx-template-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python learning/list_comprehension" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python-docx-template-master/docxtpl" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python learning/list_comprehension/comprehension_generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python-docx-template-master/docxtpl/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="introduction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python learning/functions/input_from_csv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python learning/python-docx-template" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python learning/functions/input_from_csv/function2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python learning/python-docx-template/introduction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="getter_setter_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="nessus-report" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python learning/classes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python learning/python-docx-template" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python learning/classes/getter_setter_methods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python learning/python-docx-template/nessus-report.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,19 +154,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="init_method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project" />
+    <configuration name="runtests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-docx-template-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python learning/classes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python-docx-template-master/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python learning/classes/init_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python-docx-template-master/tests/runtests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,34 +175,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prime_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in testParser.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python learning/list_comprehension" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NessusCLIParser-master" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python learning/list_comprehension/prime_number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/NessusCLIParser-master/testParser.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.getter_setter_methods" />
-        <item itemvalue="Python.init_method" />
-        <item itemvalue="Python.function2" />
-        <item itemvalue="Python.prime_number" />
-        <item itemvalue="Python.comprehension_generator" />
+        <item itemvalue="Python.nessus-report" />
+        <item itemvalue="Python tests.Unittests in testParser.py" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.runtests" />
+        <item itemvalue="Python.introduction" />
       </list>
     </recent_temporary>
   </component>
@@ -201,84 +216,96 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582274034598">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state x="458" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583498868827">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="458" y="236" key="#com.intellij.fileTypes.FileTypeChooser/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582274034598" />
-    <state x="463" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582538649124">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="458" y="237" key="#com.intellij.fileTypes.FileTypeChooser/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583498868827" />
+    <state x="463" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583490460568">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="463" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582272758467" />
     <state x="463" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1582538649124" />
+    <state x="463" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583490460568" />
     <state x="353" y="36" key="CommitChangelistDialog2" timestamp="1582269085621">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="353" y="36" key="CommitChangelistDialog2/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582269085621" />
-    <state width="1379" height="165" key="GridCell.Tab.0.bottom" timestamp="1583328622568">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1400" height="168" key="GridCell.Tab.0.bottom" timestamp="1583500887750">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state width="1400" height="168" key="GridCell.Tab.0.bottom/1440.23.1920.1097/0.23.1440.877@0.23.1440.877" timestamp="1583500887750" />
     <state width="1379" height="192" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582530920311" />
     <state width="1379" height="259" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582616869597" />
-    <state width="1379" height="259" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1582618630696" />
-    <state width="1379" height="165" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583328622568" />
+    <state width="1379" height="163" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1583485263097" />
+    <state width="1400" height="168" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583500783222" />
     <state width="1379" height="165" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583243373096" />
-    <state width="1379" height="165" key="GridCell.Tab.0.center" timestamp="1583328622568">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1400" height="168" key="GridCell.Tab.0.center" timestamp="1583500887749">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state width="1400" height="168" key="GridCell.Tab.0.center/1440.23.1920.1097/0.23.1440.877@0.23.1440.877" timestamp="1583500887749" />
     <state width="1379" height="192" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582530920310" />
     <state width="1379" height="259" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582616869596" />
-    <state width="1379" height="259" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1582618630695" />
-    <state width="1379" height="165" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583328622568" />
+    <state width="1379" height="163" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1583485263096" />
+    <state width="1400" height="168" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583500783221" />
     <state width="1379" height="165" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583243373095" />
-    <state width="1379" height="165" key="GridCell.Tab.0.left" timestamp="1583328622567">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1400" height="168" key="GridCell.Tab.0.left" timestamp="1583500887749">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state width="1400" height="168" key="GridCell.Tab.0.left/1440.23.1920.1097/0.23.1440.877@0.23.1440.877" timestamp="1583500887749" />
     <state width="1379" height="192" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582530920309" />
     <state width="1379" height="259" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582616869595" />
-    <state width="1379" height="259" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1582618630695" />
-    <state width="1379" height="165" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583328622567" />
+    <state width="1379" height="163" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1583485263096" />
+    <state width="1400" height="168" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583500783221" />
     <state width="1379" height="165" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583243373094" />
-    <state width="1379" height="165" key="GridCell.Tab.0.right" timestamp="1583328622568">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1400" height="168" key="GridCell.Tab.0.right" timestamp="1583500887749">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state width="1400" height="168" key="GridCell.Tab.0.right/1440.23.1920.1097/0.23.1440.877@0.23.1440.877" timestamp="1583500887749" />
     <state width="1379" height="192" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582530920310" />
     <state width="1379" height="259" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582616869596" />
-    <state width="1379" height="259" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1582618630696" />
-    <state width="1379" height="165" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583328622568" />
+    <state width="1379" height="163" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1583485263097" />
+    <state width="1400" height="168" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583500783222" />
     <state width="1379" height="165" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583243373095" />
-    <state width="1379" height="240" key="GridCell.Tab.1.bottom" timestamp="1583243418843">
+    <state width="1379" height="240" key="GridCell.Tab.1.bottom" timestamp="1583489412660">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state width="1379" height="239" key="GridCell.Tab.1.bottom/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582210705469" />
-    <state width="1379" height="240" key="GridCell.Tab.1.bottom/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583243418843" />
+    <state width="1379" height="240" key="GridCell.Tab.1.bottom/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1583484886227" />
+    <state width="1379" height="240" key="GridCell.Tab.1.bottom/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583489412660" />
     <state width="1379" height="240" key="GridCell.Tab.1.bottom/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583229034654" />
-    <state width="1379" height="240" key="GridCell.Tab.1.center" timestamp="1583243418842">
+    <state width="1379" height="240" key="GridCell.Tab.1.center" timestamp="1583489412660">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state width="1379" height="239" key="GridCell.Tab.1.center/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582210705469" />
-    <state width="1379" height="240" key="GridCell.Tab.1.center/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583243418842" />
+    <state width="1379" height="240" key="GridCell.Tab.1.center/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1583484886226" />
+    <state width="1379" height="240" key="GridCell.Tab.1.center/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583489412660" />
     <state width="1379" height="240" key="GridCell.Tab.1.center/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583229034654" />
-    <state width="1379" height="240" key="GridCell.Tab.1.left" timestamp="1583243418842">
+    <state width="1379" height="240" key="GridCell.Tab.1.left" timestamp="1583489412659">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state width="1379" height="239" key="GridCell.Tab.1.left/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582210705469" />
-    <state width="1379" height="240" key="GridCell.Tab.1.left/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583243418842" />
+    <state width="1379" height="240" key="GridCell.Tab.1.left/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1583484886225" />
+    <state width="1379" height="240" key="GridCell.Tab.1.left/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583489412659" />
     <state width="1379" height="240" key="GridCell.Tab.1.left/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583229034653" />
-    <state width="1379" height="240" key="GridCell.Tab.1.right" timestamp="1583243418843">
+    <state width="1379" height="240" key="GridCell.Tab.1.right" timestamp="1583489412660">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state width="1379" height="239" key="GridCell.Tab.1.right/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582210705469" />
-    <state width="1379" height="240" key="GridCell.Tab.1.right/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583243418843" />
+    <state width="1379" height="240" key="GridCell.Tab.1.right/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1583484886226" />
+    <state width="1379" height="240" key="GridCell.Tab.1.right/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583489412660" />
     <state width="1379" height="240" key="GridCell.Tab.1.right/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583229034654" />
-    <state x="234" y="65" key="SettingsEditor" timestamp="1582539124562">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="234" y="68" key="SettingsEditor" timestamp="1583500967046">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state x="234" y="68" key="SettingsEditor/1440.23.1920.1097/0.23.1440.877@0.23.1440.877" timestamp="1583500967046" />
     <state x="234" y="65" key="SettingsEditor/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1582539124562" />
-    <state width="500" height="447" key="SwitcherDM" timestamp="1583133827009">
+    <state x="234" y="65" key="SettingsEditor/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583496599902" />
+    <state width="500" height="447" key="SwitcherDM" timestamp="1583491401309">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state width="500" height="445" key="SwitcherDM/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1582205710162" />
-    <state width="500" height="447" key="SwitcherDM/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583133827009" />
+    <state width="500" height="447" key="SwitcherDM/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583491401309" />
     <state x="344" y="51" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583224416723">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
