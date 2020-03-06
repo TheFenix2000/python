@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6627fe66-70dc-4a70-9deb-db023a25de2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Fenix_Nessus/Nessus_algorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fenix_Nessus/function2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NessusCLIParser-master/usr/local/bin/Example.nessus" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NessusCLIParser-master/usr/local/bin/test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/Inheritance/additional_instances_in_subclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/Inheritance/introduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/Inheritance/overriding_instances_of_parrent_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/Inheritance/partialy_ovveride_a_instance_of_parent_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/class_and_instance_attr/class_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/class_and_instance_attr/differences_between_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/class_and_instance_attr/greates_common_division.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/class_and_instance_attr/static_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/classes/destructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/classes/private_attributes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/classes/repr_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/classes/repr_string_methods_combined.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/classes/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/descriptors/example_descriptor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/descriptors/votin_age_descriptor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/properties/property.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/python-docx-template/crossword.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/python-docx-template/introduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/python-docx-template/nessus-report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python learning/xml processing/test.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docx/crossword.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fenix_Nessus/excludedIDs-orig.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fenix_Nessus/excludedIDs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fenix_Nessus/excludedIDs.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fenix_Nessus/nessus-class.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python learning/classes/data hiding.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python learning/classes/data_hiding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python learning/functions/input_from_csv/function2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python learning/functions/input_from_csv/function2.py" afterDir="false" />
-    </list>
+    <list default="true" id="6627fe66-70dc-4a70-9deb-db023a25de2b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -232,37 +198,37 @@
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="353" y="36" key="CommitChangelistDialog2/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582269085621" />
-    <state width="1400" height="168" key="GridCell.Tab.0.bottom" timestamp="1583500887750">
+    <state width="1400" height="168" key="GridCell.Tab.0.bottom" timestamp="1583501236785">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1400" height="168" key="GridCell.Tab.0.bottom/1440.23.1920.1097/0.23.1440.877@0.23.1440.877" timestamp="1583500887750" />
+    <state width="1400" height="168" key="GridCell.Tab.0.bottom/1440.23.1920.1097/0.23.1440.877@0.23.1440.877" timestamp="1583501236785" />
     <state width="1379" height="192" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582530920311" />
     <state width="1379" height="259" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582616869597" />
     <state width="1379" height="163" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1583485263097" />
     <state width="1400" height="168" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583500783222" />
     <state width="1379" height="165" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583243373096" />
-    <state width="1400" height="168" key="GridCell.Tab.0.center" timestamp="1583500887749">
+    <state width="1400" height="168" key="GridCell.Tab.0.center" timestamp="1583501236784">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1400" height="168" key="GridCell.Tab.0.center/1440.23.1920.1097/0.23.1440.877@0.23.1440.877" timestamp="1583500887749" />
+    <state width="1400" height="168" key="GridCell.Tab.0.center/1440.23.1920.1097/0.23.1440.877@0.23.1440.877" timestamp="1583501236784" />
     <state width="1379" height="192" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582530920310" />
     <state width="1379" height="259" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582616869596" />
     <state width="1379" height="163" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1583485263096" />
     <state width="1400" height="168" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583500783221" />
     <state width="1379" height="165" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583243373095" />
-    <state width="1400" height="168" key="GridCell.Tab.0.left" timestamp="1583500887749">
+    <state width="1400" height="168" key="GridCell.Tab.0.left" timestamp="1583501236784">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1400" height="168" key="GridCell.Tab.0.left/1440.23.1920.1097/0.23.1440.877@0.23.1440.877" timestamp="1583500887749" />
+    <state width="1400" height="168" key="GridCell.Tab.0.left/1440.23.1920.1097/0.23.1440.877@0.23.1440.877" timestamp="1583501236784" />
     <state width="1379" height="192" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582530920309" />
     <state width="1379" height="259" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582616869595" />
     <state width="1379" height="163" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1583485263096" />
     <state width="1400" height="168" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583500783221" />
     <state width="1379" height="165" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583243373094" />
-    <state width="1400" height="168" key="GridCell.Tab.0.right" timestamp="1583500887749">
+    <state width="1400" height="168" key="GridCell.Tab.0.right" timestamp="1583501236785">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1400" height="168" key="GridCell.Tab.0.right/1440.23.1920.1097/0.23.1440.877@0.23.1440.877" timestamp="1583500887749" />
+    <state width="1400" height="168" key="GridCell.Tab.0.right/1440.23.1920.1097/0.23.1440.877@0.23.1440.877" timestamp="1583501236785" />
     <state width="1379" height="192" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582530920310" />
     <state width="1379" height="259" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582616869596" />
     <state width="1379" height="163" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1583485263097" />
