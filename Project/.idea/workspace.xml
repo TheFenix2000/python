@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6627fe66-70dc-4a70-9deb-db023a25de2b" name="Default Changelist" comment="" />
+    <list default="true" id="6627fe66-70dc-4a70-9deb-db023a25de2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Docx/Fenix_Nessus/Nessus-result.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docx/Fenix_Nessus/document.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docx/document.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docx/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docx/test3.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docx/text.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Docx/text.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fenix_Nessus/Nessus_algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Docx/Fenix_Nessus/Nessus_algorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fenix_Nessus/excludedIDs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Docx/Fenix_Nessus/excludedIDs.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fenix_Nessus/function2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Docx/Fenix_Nessus/function2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fenix_Nessus/nessus.py" beforeDir="false" afterPath="$PROJECT_DIR$/Docx/Fenix_Nessus/nessus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fenix_Nessus/samples/Example-1.nessus" beforeDir="false" afterPath="$PROJECT_DIR$/Docx/Fenix_Nessus/samples/Example-1.nessus" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fenix_Nessus/samples/Example.nessus" beforeDir="false" afterPath="$PROJECT_DIR$/Docx/Fenix_Nessus/samples/Example.nessus" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +44,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/NessusCLIParser-master/usr/local/bin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Fenix_Nessus" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -42,44 +57,23 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Python learning/directories" />
-      <recent name="$PROJECT_DIR$/Fenix_Nessus/samples" />
-      <recent name="$PROJECT_DIR$/Fenix_Nessus" />
-      <recent name="$PROJECT_DIR$/Ozuma_Nessus/sample_xml" />
-      <recent name="$PROJECT_DIR$/Ozuma_Nessus" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/NessusCLIParser-master/usr/local/bin" />
       <recent name="$PROJECT_DIR$/Fenix_Nessus" />
+      <recent name="$PROJECT_DIR$/NessusCLIParser-master/usr/local/bin" />
       <recent name="$PROJECT_DIR$/Python learning/classes" />
       <recent name="$PROJECT_DIR$/Ozuma_Nessus" />
       <recent name="$PROJECT_DIR$/Ozuma_Nessus/sample_xml" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Docx" />
+      <recent name="$PROJECT_DIR$/Docx/docx-testing" />
+      <recent name="$PROJECT_DIR$/Python learning/directories" />
+      <recent name="$PROJECT_DIR$/Fenix_Nessus/samples" />
+      <recent name="$PROJECT_DIR$/Fenix_Nessus" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.nessus-report">
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-docx-template-master" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python-docx-template-master/docxtpl" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python-docx-template-master/docxtpl/__init__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="introduction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Nessus_algorithm (1)">
+    <configuration name="Nessus_algorithm (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python learning/python-docx-template" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Docx/Fenix_Nessus" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python learning/python-docx-template/introduction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Docx/Fenix_Nessus/Nessus_algorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nessus-report" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Nessus_algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python learning/python-docx-template" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fenix_Nessus" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python learning/python-docx-template/nessus-report.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fenix_Nessus/Nessus_algorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,19 +115,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="runtests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-docx-template-master" />
+    <configuration name="docx-test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python-docx-template-master/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Docx/docx-testing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python-docx-template-master/tests/runtests.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Docx/docx-test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,27 +136,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in testParser.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="header" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NessusCLIParser-master" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Docx" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/NessusCLIParser-master/testParser.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Docx/header.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Docx" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Docx/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.nessus-report" />
-        <item itemvalue="Python tests.Unittests in testParser.py" />
-        <item itemvalue="Python.__init__" />
-        <item itemvalue="Python.runtests" />
-        <item itemvalue="Python.introduction" />
+        <item itemvalue="Python.Nessus_algorithm (1)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.Nessus_algorithm" />
+        <item itemvalue="Python.header" />
+        <item itemvalue="Python.docx-test" />
       </list>
     </recent_temporary>
   </component>
@@ -198,41 +220,41 @@
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="353" y="36" key="CommitChangelistDialog2/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582269085621" />
-    <state width="1400" height="168" key="GridCell.Tab.0.bottom" timestamp="1583501236785">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1440" height="167" key="GridCell.Tab.0.bottom" timestamp="1583752252502">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state width="1400" height="168" key="GridCell.Tab.0.bottom/1440.23.1920.1097/0.23.1440.877@0.23.1440.877" timestamp="1583501236785" />
     <state width="1379" height="192" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582530920311" />
     <state width="1379" height="259" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582616869597" />
     <state width="1379" height="163" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1583485263097" />
-    <state width="1400" height="168" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583500783222" />
+    <state width="1440" height="167" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583752252502" />
     <state width="1379" height="165" key="GridCell.Tab.0.bottom/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583243373096" />
-    <state width="1400" height="168" key="GridCell.Tab.0.center" timestamp="1583501236784">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1440" height="167" key="GridCell.Tab.0.center" timestamp="1583752252502">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state width="1400" height="168" key="GridCell.Tab.0.center/1440.23.1920.1097/0.23.1440.877@0.23.1440.877" timestamp="1583501236784" />
     <state width="1379" height="192" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582530920310" />
     <state width="1379" height="259" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582616869596" />
     <state width="1379" height="163" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1583485263096" />
-    <state width="1400" height="168" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583500783221" />
+    <state width="1440" height="167" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583752252502" />
     <state width="1379" height="165" key="GridCell.Tab.0.center/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583243373095" />
-    <state width="1400" height="168" key="GridCell.Tab.0.left" timestamp="1583501236784">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1440" height="167" key="GridCell.Tab.0.left" timestamp="1583752252501">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state width="1400" height="168" key="GridCell.Tab.0.left/1440.23.1920.1097/0.23.1440.877@0.23.1440.877" timestamp="1583501236784" />
     <state width="1379" height="192" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582530920309" />
     <state width="1379" height="259" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582616869595" />
     <state width="1379" height="163" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1583485263096" />
-    <state width="1400" height="168" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583500783221" />
+    <state width="1440" height="167" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583752252501" />
     <state width="1379" height="165" key="GridCell.Tab.0.left/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583243373094" />
-    <state width="1400" height="168" key="GridCell.Tab.0.right" timestamp="1583501236785">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1440" height="167" key="GridCell.Tab.0.right" timestamp="1583752252502">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state width="1400" height="168" key="GridCell.Tab.0.right/1440.23.1920.1097/0.23.1440.877@0.23.1440.877" timestamp="1583501236785" />
     <state width="1379" height="192" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.804@0.23.1440.804" timestamp="1582530920310" />
     <state width="1379" height="259" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.806@0.23.1440.806" timestamp="1582616869596" />
     <state width="1379" height="163" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1583485263097" />
-    <state width="1400" height="168" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583500783222" />
+    <state width="1440" height="167" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583752252502" />
     <state width="1379" height="165" key="GridCell.Tab.0.right/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583243373095" />
     <state width="1379" height="240" key="GridCell.Tab.1.bottom" timestamp="1583489412660">
       <screen x="0" y="23" width="1440" height="811" />
@@ -262,12 +284,12 @@
     <state width="1379" height="240" key="GridCell.Tab.1.right/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1583484886226" />
     <state width="1379" height="240" key="GridCell.Tab.1.right/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583489412660" />
     <state width="1379" height="240" key="GridCell.Tab.1.right/1440.23.1920.1177/0.23.1440.812@0.23.1440.812" timestamp="1583229034654" />
-    <state x="234" y="68" key="SettingsEditor" timestamp="1583500967046">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="234" y="65" key="SettingsEditor" timestamp="1583750499903">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="234" y="68" key="SettingsEditor/1440.23.1920.1097/0.23.1440.877@0.23.1440.877" timestamp="1583500967046" />
     <state x="234" y="65" key="SettingsEditor/1440.23.1920.1177/0.23.1440.808@0.23.1440.808" timestamp="1582539124562" />
-    <state x="234" y="65" key="SettingsEditor/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583496599902" />
+    <state x="234" y="65" key="SettingsEditor/1440.23.1920.1177/0.23.1440.811@0.23.1440.811" timestamp="1583750499903" />
     <state width="500" height="447" key="SwitcherDM" timestamp="1583491401309">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
