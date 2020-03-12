@@ -99,13 +99,22 @@ class NessusProcess:
     tcVAlign.set(qn("w:fill"), color)
     tcPr.append(tcVAlign)
 
+#<name of variable=Document()>, <i> as second element in numeration, <title> as a title of paragraph
+  #if '<i>' == 'NoneType' then we define APPENDIX paragraph but we still need to set a title
   def _create_main_paragraph(self, document, i, title):
-    paragraph = document.add_paragraph()
-    run = paragraph.add_run('1.' + str(i + 1) + ".     " + title)
-    run.bold = True
-    run.font.size = Pt(14)
     document.add_paragraph()
-
+    paragraph = document.add_paragraph()
+    if i != None:
+      run = paragraph.add_run('1.' + str(i + 1) + ".     " + title)
+      run.bold = True
+      run.font.size = Pt(14)
+    else:
+      run = paragraph.add_run(title)
+      run.bold = True
+      run.font.size = Pt(16)
+      run.font.color.rgb = RGBColor(255, 0 ,0)
+    document.add_paragraph()
+#<content> as position in a list, <number> - third element of numeration
   def _create_content_paragraph(self, document, i, content, number, title):
     paragraph = document.add_paragraph()
     run = paragraph.add_run('1.' + str(i + 1) + '.' + str(number) + ".   " + title)
@@ -114,6 +123,7 @@ class NessusProcess:
     document.add_paragraph()
     paragraph = document.add_paragraph(content)
     paragraph.paragraph_format.left_indent = Cm(1.4)
+
     document.add_paragraph()
 
   #'.docx' creating function
@@ -162,51 +172,18 @@ class NessusProcess:
         table.rows[2].cells[1].vertical_alignment = WD_CELL_VERTICAL_ALIGNMENT.CENTER
       document.add_paragraph()
 
-      #self._create_main_paragraph(document, i, 'Vulnerability Description')
       self._create_content_paragraph(document, i, result_list[i][4], 1, 'Vulnerability Description')
-      paragraph11 = document.add_paragraph()
-      run11 = paragraph11.add_run("1." + str(i+1) + ".1.   " + "Vulnerability Description")
-      run11.bold = True
-      run11.font.size = Pt(13)
-      paragraph11 = document.add_paragraph(result_list[i][4])
-      paragraph11.paragraph_format.left_indent = Cm(1.4)
-      document.add_paragraph()
 
-      paragraph12 = document.add_paragraph()
-      run12 = paragraph12.add_run("1." + str(i + 1) + ".2.   " + "Evidence")
-      run12.bold = True
-      run12.font.size = Pt(13)
-      document.add_paragraph()
-#to be added
-      document.add_paragraph()
+#TBA evidence generation function
+      self._create_content_paragraph(document, i, '<TBA>', 2, 'Evidence')
 
-      paragraph13 = document.add_paragraph()
-      run13 = paragraph13.add_run("1." + str(i + 1) + ".3.   " + "Recommendation")
-      run13.bold = True
-      run13.font.size = Pt(13)
-      document.add_paragraph()
-      paragraph13 = document.add_paragraph(result_list[i][5])
-      paragraph13.paragraph_format.left_indent = Cm(1.4)
-      document.add_paragraph()
+      self._create_content_paragraph(document, i, result_list[i][5], 3, 'Recommendation')
 
       if result_list[i][7] != None:
-        paragraph14 = document.add_paragraph()
-        run14 = paragraph14.add_run("1." + str(i + 1) + ".4.   " + "References")
-        run14.bold = True
-        run14.font.size = Pt(13)
-        document.add_paragraph()
-        paragraph14 = document.add_paragraph(result_list[i][6])
-        paragraph14.paragraph_format.left_indent = Cm(1.4)
-      document.add_paragraph()
+        self._create_content_paragraph(document, i, result_list[i][6], 4, 'References')
       document.add_page_break()
 
-
-    paragraph2 = document.add_paragraph()
-    run = paragraph2.add_run('2.      APPENDIX')
-    run.bold = True
-    run.font.size = Pt(16)
-    run.font.color.rgb = RGBColor(255, 0, 0)
-    document.add_paragraph()
+    self._create_main_paragraph(document, None, '2.      APPENDIX')
     document.add_paragraph()
     paragraph21 = document.add_paragraph()
     run = paragraph21.add_run('2.1.    Port Scan Results')
@@ -217,6 +194,8 @@ class NessusProcess:
     table.columns[0].width = Cm(8.0)
     table.alignment = WD_TABLE_ALIGNMENT.RIGHT
     table.cell(0, 0).text = ipaddr
+#TBA open ports find function
+    table.cell(0, 1).text = '<TBA>'
     table.rows[0].height = Cm(0.9)
     for row in table.rows:
       for cell in row.cells:
